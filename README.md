@@ -177,3 +177,11 @@ For example
 |                     | -comp       | get number of comparisons used in running time                |
 |                     | -both       | get both values                                               |
 | Input file          | input.txt   | any name. First line: array size n; Second line: n intergers |
+
+# Acknowledgement
+
+- Teacher: Mr. Thanh - Phuong Nguyen, Ph.D
+
+- Lab supervisor: Mr Huy - Thong Bui, M.Sc
+
+- This is invidual project.
