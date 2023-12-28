@@ -1,0 +1,73 @@
+Data order: Reverse sorted data
+Datasize: 10000
+Selection sort,Comparisons:,100019998,Running time (ms):,96.3312
+Insertion sort,Comparisons:,100009999,Running time (ms):,104.36
+Bubble sort,Comparisons:,100019998,Running time (ms):,210.961
+Shaker sort,Comparisons:,100000000,Running time (ms):,206.309
+Shell sort,Comparisons:,475175,Running time (ms):,0.5074
+Heap sort,Comparisons:,476739,Running time (ms):,1.0432
+Merge sort,Comparisons:,476441,Running time (ms):,0.8646
+Quick sort,Comparisons:,338677,Running time (ms):,12.3484
+Counting sort,Comparisons:,70003,Running time (ms):,0.2683
+Radix sort,Comparisons:,140056,Running time (ms):,1.0803
+Flash sort,Comparisons:,93754,Running time (ms):,0.5597
+Datasize: 30000
+Selection sort,Comparisons:,900059998,Running time (ms):,788.027
+Insertion sort,Comparisons:,900029999,Running time (ms):,907.416
+Bubble sort,Comparisons:,900059998,Running time (ms):,1872.56
+Shaker sort,Comparisons:,900000000,Running time (ms):,1822.39
+Shell sort,Comparisons:,1554051,Running time (ms):,1.8662
+Heap sort,Comparisons:,1622791,Running time (ms):,5.3303
+Merge sort,Comparisons:,1573465,Running time (ms):,4.0715
+Quick sort,Comparisons:,1164547,Running time (ms):,28.0837
+Counting sort,Comparisons:,210003,Running time (ms):,0.6512
+Radix sort,Comparisons:,510070,Running time (ms):,2.4029
+Flash sort,Comparisons:,281254,Running time (ms):,1.2023
+Datasize: 50000
+Selection sort,Comparisons:,2500099998,Running time (ms):,2136.16
+Insertion sort,Comparisons:,2500049999,Running time (ms):,2486.1
+Bubble sort,Comparisons:,2500099998,Running time (ms):,5514.29
+Shaker sort,Comparisons:,2500000000,Running time (ms):,5050.89
+Shell sort,Comparisons:,2844628,Running time (ms):,2.8571
+Heap sort,Comparisons:,2848016,Running time (ms):,6.4839
+Merge sort,Comparisons:,2733945,Running time (ms):,4.4712
+Quick sort,Comparisons:,2038327,Running time (ms):,43.859
+Counting sort,Comparisons:,350003,Running time (ms):,0.7191
+Radix sort,Comparisons:,850070,Running time (ms):,3.7914
+Flash sort,Comparisons:,468754,Running time (ms):,1.8048
+Datasize: 100000
+Selection sort,Comparisons:,10000199998,Running time (ms):,8617.05
+Insertion sort,Comparisons:,10000099999,Running time (ms):,10165.9
+Bubble sort,Comparisons:,10000199998,Running time (ms):,21226
+Shaker sort,Comparisons:,10000000000,Running time (ms):,19656.4
+Shell sort,Comparisons:,6089190,Running time (ms):,6.0847
+Heap sort,Comparisons:,6087452,Running time (ms):,14.1803
+Merge sort,Comparisons:,5767897,Running time (ms):,10.1321
+Quick sort,Comparisons:,4424587,Running time (ms):,76.8702
+Counting sort,Comparisons:,700003,Running time (ms):,1.3295
+Radix sort,Comparisons:,1700070,Running time (ms):,7.865
+Flash sort,Comparisons:,937504,Running time (ms):,3.8868
+Datasize: 300000
+Selection sort,Comparisons:,90000599998,Running time (ms):,76592.2
+Insertion sort,Comparisons:,90000299999,Running time (ms):,91942.3
+Bubble sort,Comparisons:,90000599998,Running time (ms):,190314
+Shaker sort,Comparisons:,90000000000,Running time (ms):,183563
+Shell sort,Comparisons:,20001852,Running time (ms):,20.7879
+Heap sort,Comparisons:,20187386,Running time (ms):,40.4779
+Merge sort,Comparisons:,18708313,Running time (ms):,32.2165
+Quick sort,Comparisons:,14524899,Running time (ms):,243.568
+Counting sort,Comparisons:,2100003,Running time (ms):,4.0414
+Radix sort,Comparisons:,6000084,Running time (ms):,32.1407
+Flash sort,Comparisons:,2812504,Running time (ms):,11.3812
+Datasize: 500000
+Selection sort,Comparisons:,250000999998,Running time (ms):,229732
+Insertion sort,Comparisons:,250000499999,Running time (ms):,261026
+Bubble sort,Comparisons:,250000999998,Running time (ms):,529091
+Shaker sort,Comparisons:,250000000000,Running time (ms):,505338
+Shell sort,Comparisons:,33857581,Running time (ms):,36.2318
+Heap sort,Comparisons:,35135730,Running time (ms):,72.3901
+Merge sort,Comparisons:,32336409,Running time (ms):,77.1762
+Quick sort,Comparisons:,24559163,Running time (ms):,412.199
+Counting sort,Comparisons:,3500003,Running time (ms):,6.6226
+Radix sort,Comparisons:,10000084,Running time (ms):,46.5935
+Flash sort,Comparisons:,4687504,Running time (ms):,19.6628
